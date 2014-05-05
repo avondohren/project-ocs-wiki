@@ -3,6 +3,8 @@
 
 Created by Cara Heacock, Andy von Dohren, and Matt Hova
 
+This is a fork from our main repository that we built on Cara's account.
+
 This project was created as an open source Wiki platform. It was specifically created to house information related to
 Omaha Code School.
 
